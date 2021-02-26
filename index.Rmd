@@ -1,0 +1,21 @@
+---
+title: "My awesome website"
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    toc: yes
+    toc_float: yes
+---
+
+# This is Jeff's awesome website
+
+
+#education
+XXX university, PhD of biostatistics, Expected 2017
+
+#publication
+XXXXXX
+
+#hobbies
+Tennis

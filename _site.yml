@@ -1,0 +1,15 @@
+name: "Yay internet"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    -text: "About"
+      href: about.html
+    -text: "research"
+      href: research.html
+    -icon: fa_envelope fa-lg
+      href: mailto:<ziz60@pitt.edu>
+
+output:
+  html_document:
+  theme: journal
